@@ -67,6 +67,14 @@ const initialScriptureDB: ScriptureDB = {
         AMP: "24 Jesus gave them another parable [to consider], saying, \"The kingdom of heaven is like a man who sowed good seed in his field. 25 But while his men were sleeping, his enemy came and sowed weeds [resembling wheat] among the wheat, and went away. 26 So when the plants sprouted and formed grain, the weeds appeared also. 27 The servants of the owner came to him and said, 'Sir, did you not sow good and clean seed in your field? Then how does it have weeds in it?' 28 He replied to them, 'An enemy has done this.' The servants asked him, 'Then do you want us to go and pull them out?' 29 But he said, 'No; because as you pull out the weeds [in the act of gathering them], you may uproot the wheat with them. 30 Let them grow together until the harvest, and at harvest time I will tell the reapers, \"First gather the weeds and tie them in bundles to be burned; but gather the wheat into my barn.\"'\"",
         NLT: "24 Here is another story Jesus told: \"The Kingdom of Heaven is like a farmer who planted good seed in his field. 25 But that night as the workers slept, his enemy came and planted weeds among the wheat, then slipped away. 26 When the crop began to grow and produce grain, the weeds also grew. 27 The farmer's workers went to him and said, 'Sir, the field where you planted that good seed is full of weeds! Where did they come from?' 28 'An enemy has done this!' the farmer exclaimed. 'Should we pull out the weeds?' his workers asked. 29 'No,' he replied, 'you'll uproot the wheat if you do. 30 Let both grow together until the harvest. Then I will tell the harvesters to sort out the weeds, tie them into bundles, and burn them, and to put the wheat in the barn.'\"",
     },
+    "Matthew 13:24-25": {
+        KJV: "24 Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field: 25 But while men slept, his enemy came and sowed tares among the wheat, and went his way.",
+        NKJV: '24 Another parable He put forth to them, saying: "The kingdom of heaven is like a man who sowed good seed in his field; 25 but while men slept, his enemy came and sowed tares among the wheat and went his way."',
+        NIV: '24 Jesus told them another parable: "The kingdom of heaven is like a man who sowed good seed in his field. 25 But while everyone was sleeping, his enemy came and sowed weeds among the wheat, and went away."',
+        ESV: '24 He put another parable before them, saying, "The kingdom of heaven may be compared to a man who sowed good seed in his field, 25 but while his men were sleeping, his enemy came and sowed weeds among the wheat and went away."',
+        AMP: '24 Jesus gave them another parable [to consider], saying, "The kingdom of heaven is like a man who sowed good seed in his field. 25 But while his men were sleeping, his enemy came and sowed weeds [resembling wheat] among the wheat, and went away."',
+        NLT: '24 Here is another story Jesus told: "The Kingdom of Heaven is like a farmer who planted good seed in his field. 25 But that night as the workers slept, his enemy came and planted weeds among the wheat, then slipped away."',
+    },
     "Matthew 13:25": {
         KJV: "25 But while men slept, his enemy came and sowed tares among the wheat, and went his way.",
         NKJV: "25 But while men slept, his enemy came and sowed tares among the wheat and went his way.",
@@ -316,7 +324,7 @@ const SundaySchoolApp = () => {
                 title: "Watching for Yourself (Mark 14:38)",
                 content:
                     "When men sleep only you can watch for yourself or else your portion will be corrupted. Isa 59:16. This man sowed and went to sleep but it was his work that was corrupted. See vs 24–25.",
-                scriptures: ["Mark 14:38", "Isaiah 59:16"],
+                scriptures: ["Mark 14:38", "Isaiah 59:16", "Matthew 13:24-25"],
                 subPoints: [],
             },
         ],
