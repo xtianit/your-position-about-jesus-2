@@ -694,7 +694,7 @@ const SundaySchoolApp = () => {
             "In our last study, we discovered that the Pharisees and scribes were at the front line of those who opposed Jesus and His ministry. We also saw how a huge number of religious leaders and clans were working to discourage the followers of Jesus Christ.",
         lessonPoints: [
             {
-                title: "Judgement and Condemnation verse 2 ",
+                title: "Judgement and Condemnation (verse 2)",
                 content:
                     "Nothing destroys a man and his course faster than character assassination. Jesus was increasing while they were decreasing. Jesus had all they didn’t have, and the people kept pressing to Him. To stop this, they brought damnable accusations against Him to bring Him down before the people. They said in conclusion:",
                 scriptures: ["Luke 15:2"],
