@@ -686,7 +686,7 @@ const SundaySchoolApp = () => {
         memoryVerseRef: "John 6:69",
         introduction:
             "Man in his several attempts to access God failed but gathered more reasons to become religious. Others had God so inclined to them but distorted His doctrines and aims to reveal Himself to them. These few groups included people neither God inclined to nor fulfilled at the coming of the Lord Jesus. Instead of repenting towards God, they resorted to spoiling the minds of men against Christ to cover their sins and shame which had God-forsaken ways.",
-        introScriptures: ["Luke 15:1–2"],
+        introScriptures: [],
         aims: "To reveal man's contempt of Christ and efforts to sabotage Jesus.",
         objectives:
             "To help the hearers have a personal conviction about Jesus.",
