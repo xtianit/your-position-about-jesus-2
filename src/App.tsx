@@ -679,7 +679,7 @@ const SundaySchoolApp = () => {
     };
 
     const [contentData, setContentData] = useState<ContentData>({
-        lessonDate: "April 12, 2015",
+        lessonDate: "November 9, 2025",
         lessonTitle: "Your Position About Jesus Christ – Part 2",
         memoryVerse:
             "And we believe and are sure that thou art that Christ, the son of the living God. — John 6:69",
