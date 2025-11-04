@@ -401,7 +401,7 @@ const SundaySchoolApp = () => {
             "And we believe and are sure that thou art that Christ, the son of the living God. — John 6:69",
         memoryVerseRef: "John 6:69",
         introduction:
-            "Man, in his several attempts to access God, failed but gathered more reasons to become religious. Others had God so inclined to them, but distorted His doctrines and aims to reveal Himself to them. These few groups included people neither God inclined to nor fulfilled at the coming of the Lord Jesus. Instead of repenting towards God, they resorted to spoiling the minds of men against Christ, to cover their sins and shame which had God-forsaken ways.",
+            "Man in his several attempts to access God failed but gathered some ideas which eventually became religions. Others had God revealed himself to them but distorted his doctrines/aims for personal and ignorant reasons. These two groups could neither please God nor themselves as they felt unfulfilled at the coming of the Lord Jesus. Instead of repenting towards God, they resorted to spoiling the minds of men against Christ to cover for their misdeeds and maintain their God-forsaken ways.",
         introScriptures: [],
         aims: "To reveal man's contempt of Christ and efforts to sabotage Jesus.",
         objectives:
